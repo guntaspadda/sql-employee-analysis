@@ -1,2 +1,2 @@
 # sql-challenge
-Repo for data bootcamp module 9 assignment
+Used SQL queries to pull records of interest from employee database
